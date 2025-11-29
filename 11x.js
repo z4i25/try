@@ -21,7 +21,7 @@
                     
                     "> Delete </button>
                 </p>`;
-            listitemsHTML = listitemsHTML +htmlcode;
+            listitemsHTML = listitemsHTML + htmlcode;
 
         }
         document.querySelector('.add-paragraph').innerHTML=listitemsHTML;
